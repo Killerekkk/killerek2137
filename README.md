@@ -1,4 +1,3 @@
-<---
 - 👋 Hi, I’m Killerek
 - 👀 I’m interested in Develpoing bots and play games
 - 🌱 I’m currently learning html, python, node.js
