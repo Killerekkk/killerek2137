@@ -1,6 +1,15 @@
-- 👋 Hi, I’m Killerek
-- 👀 I’m interested in Develpoing bots and play games
-- 🌱 I’m currently learning html, python, node.js
-- 💞️ I love create discord bot
-- 📫 How to reach me? Killerek#6666 its my discord add me and dm
-<---
+# Hi there👋 
+
+### Contact:
+
+[Discord](https://discords.com/bio/p/Killerek)
+
+---
+
+### Languages:
+
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<br />
+<br/>
+
+---
